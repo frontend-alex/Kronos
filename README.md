@@ -1,3 +1,7 @@
+For setup prerequisites, repository navigation, example data requirements, regression tests, and contribution attribution, read the [Kronos checkout guide](docs/REPOSITORY_GUIDE.md). The original upstream research documentation follows unchanged.
+
+---
+
 <div align="center">
   <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2>
 </div>
